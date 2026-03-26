@@ -2,11 +2,11 @@
 
 ### 👨‍💻 Aspiring DevOps & Backend Engineer | Applied CS Student @ PŁ 
 
-I'm a 3rd-year student at Lodz University of Technology, focusing on bridging the gap between development and operations. I love taking responsibility for the entire application lifecycle—from writing efficient code to automating its deployment.
+I'm a 3rd-year student at Lodz University of Technology, focusing on bridging the gap between development and operations. I love taking responsibility for the entire application lifecycle - from writing efficient code to automating its deployment.
 
 - 🔭 **Currently working on:** Containerizing my Java REST API project and deploying it to a local Kubernetes cluster.
 - 🌱 **Currently learning:** Kubernetes architecture (Deployments, Services, ConfigMaps) and advanced CI/CD pipelines.
-- 🏆 **Milestone:** 3rd Place at Bosch #InnovAItionHackathon (built an AI onboarding assistant using LLMs and designed its core architecture.
+- 🏆 **Milestone:** 3rd Place at Bosch #InnovAItionHackathon (built an AI onboarding assistant using LLMs and designed its core architecture).
 
 ---
 
